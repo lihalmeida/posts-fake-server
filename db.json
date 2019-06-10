@@ -33,39 +33,39 @@
       "postId": 1
     },
     {
-      "id": 1,
+      "id": 2,
       "body": "another comment",
       "postId": 1
     },
     {
-      "id": 2,
+      "id": 3,
       "body": "some comment",
-      "postId": 1
+      "postId": 2
     },
     {
-      "id": 1,
+      "id": 4,
       "body": "king comment",
       "postId": 1
     },
     {
-      "id": 3,
+      "id": 5,
       "body": "some comment",
-      "postId": 1
+      "postId": 3
     },
     {
-      "id": 3,
+      "id": 6,
       "body": "old comment",
-      "postId": 1
+      "postId": 3
     },
     {
-      "id": 4,
+      "id": 7,
       "body": "some comment",
-      "postId": 1
+      "postId": 4
     },
     {
-      "id": 4,
+      "id": 8,
       "body": "another comment",
-      "postId": 1
+      "postId": 4
     }
   ]
 }
